@@ -1,0 +1,183 @@
+{
+  "Json_Data": [
+    {
+
+      "HouseAds_package": "com.kiloo.subwaysurf",
+      "HouseAds_title": "Subway Surfers 35",
+      "HouseAds_discripton": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!",
+      "HouseAds_image": "https://i.imgur.com/XZHOjBO.jpg",
+      "HouseAds_icon": "https://i.imgur.com/P6eHtK0.jpg",
+
+      "Admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "Admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "Admob_native": "ca-app-pub-3940256099942544/2247696110",
+      "Admob_250": "ca-app-pub-3940256099942544/6300978111",
+	  
+      "Unity_id": "3337513",
+      "Unity_banner_Placement": "banner_app",
+      "Unity_interstitial_Placement": "inter_video",
+
+      "Appodeal_id": "01234567890123457890145789",
+      "Startapp_id": "206768024",
+
+      "Active_Ad_network": "admob startapp appodeal",
+
+      "Ad__1__Interstitial": "admob",
+      "Ad__2__Interstitial": "startapp",
+      "Ad__3__Interstitial": "admob",
+      "Ad__4__Interstitial": "appodeal",
+
+      "Ad__X__Banner": "admob",
+      "Ad__X__Native": "admob",
+      "Ad__X__Rectangle": "admob",
+
+      "Test_mode_unity"     : "yes",
+      "Test_mode_appodeal"  : "yes",
+      "Debug_mode_facebook" : "yes",
+      "Show_help_toast"     : "yes",
+
+      "ClicksTo_showAd": "2",
+      "Active_PackageName": "com.mygfx.hamguide",
+      "OnBack_ClicksTo_showAd": "15",
+
+
+      "Ad_format_fi_activity_1" : "native",
+      "Ad_format_fi_detail_1"   : "rectangle",
+      "Ad_format_fi_detail_2"   : "native",
+      "Ad_format_fi_detail_3"   : "rectangle",
+
+
+      "Enable_backgroundAds": "no",
+
+      "App_suspended": "no",
+      "NewApp_package": "com.facebook.lite",
+      "NewApp_title": "App update!",
+      "NewApp_message": "please update to new version!",
+
+      "Gdpr_activate": "no",
+      "Gdpr_id": "pub-3940256099942544",
+
+      "Cpa_activate": "yes",
+      "Cpa_text": "Claim Your Free Diamonds Here",
+      "Cpa_image": "https://i.imgur.com/gw4iV9Q.png",
+      "Cpa_url": "https://www.google.com/",
+
+      "Json_Checker": "dont_change_this"
+
+    }
+  ],
+  "MoreApps": [
+    {
+      "package": "com.whatsapp",
+      "name": "WhatsApp free",
+      "icon": "https://icons-for-free.com/iconfiles/png/512/message+messaging+messenger+round+icon+whatsapp+icon-1320190506693370947.png",
+      "stars": "1"
+    },
+    {
+      "package": "com.instagram.android",
+      "name": "Instagram",
+      "icon": "https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ",
+      "stars": "3"
+    }
+  ],
+ 
+ 
+  "GuideContent": [
+    {
+      "title": "What is Lorem Ipsum? its free all time here now",
+      "text": "11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 .",
+      "text2": "22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222.",
+      "text3": "333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333 .",
+      "likes": "7.9k",
+      "dislikes": "918",
+      "icon": "https://i.imgur.com/Ewbodpe.jpg",
+      "image": "https://i.ytimg.com/vi/rdP8UcHbpYs/maxresdefault.jpg",
+      "image2": "https://www.pcquest.com/wp-content/uploads/2020/07/maxresdefault-5.jpg",
+      "image3": "https://i.imgur.com/iHPoFXj.jpg"
+    },
+    {
+      "title": "Where does it come from?",
+      "text": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "text2": "Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "text3": "Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "likes": "2.5k",
+      "dislikes": "724",
+      "icon": "https://i.imgur.com/7cX7mE0.jpg",
+      "image": "https://i.ytimg.com/vi/rdP8UcHbpYs/maxresdefault.jpg",
+      "image2": "https://www.pcquest.com/wp-content/uploads/2020/07/maxresdefault-5.jpg",
+      "image3": "https://i.imgur.com/iHPoFXj.jpg"
+    },
+    {
+      "title": "Why do we use it?",
+      "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+      "text2": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "text3": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "likes": "3.1k",
+      "dislikes": "120",
+      "icon": "https://i.imgur.com/oUlbmVG.jpg",
+      "image": "https://i.ytimg.com/vi/rdP8UcHbpYs/maxresdefault.jpg",
+      "image2": "https://www.pcquest.com/wp-content/uploads/2020/07/maxresdefault-5.jpg",
+      "image3": "https://i.imgur.com/iHPoFXj.jpg"
+    },
+    {
+      "title": "Where can I get some?",
+      "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+      "text2": " All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "text3": " All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "likes": "1.6k",
+      "dislikes": "243",
+      "icon": "https://i.imgur.com/Ewbodpe.jpg",
+      "image": "https://i.ytimg.com/vi/rdP8UcHbpYs/maxresdefault.jpg",
+      "image2": "https://www.pcquest.com/wp-content/uploads/2020/07/maxresdefault-5.jpg",
+      "image3": "https://i.imgur.com/iHPoFXj.jpg"
+    },
+    {
+      "title": "What is Lorem Ipsum?",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "text2": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "text3": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "likes": "1.2k",
+      "dislikes": "95",
+      "icon": "https://i.imgur.com/7cX7mE0.jpg",
+      "image": "https://i.ytimg.com/vi/rdP8UcHbpYs/maxresdefault.jpg",
+      "image2": "https://www.pcquest.com/wp-content/uploads/2020/07/maxresdefault-5.jpg",
+      "image3": "https://i.imgur.com/iHPoFXj.jpg"
+    },
+    {
+      "title": "Where does it come from?",
+      "text": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "text2": " Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "text3": " Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "likes": "7.2k",
+      "dislikes": "354",
+      "icon": "https://i.imgur.com/Ewbodpe.jpg",
+      "image": "https://i.ytimg.com/vi/rdP8UcHbpYs/maxresdefault.jpg",
+      "image2": "https://www.pcquest.com/wp-content/uploads/2020/07/maxresdefault-5.jpg",
+      "image3": "https://i.imgur.com/iHPoFXj.jpg"
+    },
+    {
+      "title": "Why do we use it?",
+      "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+      "text2": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "text3": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "likes": "2.1k",
+      "dislikes": "264",
+      "icon": "https://i.imgur.com/7cX7mE0.jpg",
+      "image": "https://i.ytimg.com/vi/rdP8UcHbpYs/maxresdefault.jpg",
+      "image2": "https://www.pcquest.com/wp-content/uploads/2020/07/maxresdefault-5.jpg",
+      "image3": "https://i.imgur.com/iHPoFXj.jpg"
+    },
+    {
+      "title": "Where can I get some?",
+      "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+      "text2": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "text3": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "likes": "6.2k",
+      "dislikes": "376",
+      "icon": "https://i.imgur.com/oUlbmVG.jpg",
+      "image": "https://i.ytimg.com/vi/rdP8UcHbpYs/maxresdefault.jpg",
+      "image2": "https://www.pcquest.com/wp-content/uploads/2020/07/maxresdefault-5.jpg",
+      "image3": "https://i.imgur.com/iHPoFXj.jpg"
+    }
+  ]
+}
