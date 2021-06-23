@@ -8,10 +8,10 @@
       "HouseAds_image": "https://i.imgur.com/XZHOjBO.jpg",
       "HouseAds_icon": "https://i.imgur.com/P6eHtK0.jpg",
 
-      "Admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "Admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "Admob_interstitial": "ca-app-pub-8447297227848273/6646751247",
+      "Admob_banner": "ca-app-pub-8447297227848273/4595302971",
       "Admob_native": "ca-app-pub-3940256099942544/2247696110",
-      "Admob_250": "ca-app-pub-3940256099942544/6300978111",
+      "Admob_250": "ca-app-pub-8447297227848273/7634445576",
 	  
       "Unity_id": "3337513",
       "Unity_banner_Placement": "banner_app",
@@ -23,12 +23,12 @@
       "Active_Ad_network": "admob startapp appodeal",
 
       "Ad__1__Interstitial": "admob",
-      "Ad__2__Interstitial": "startapp",
+      "Ad__2__Interstitial": "admob",
       "Ad__3__Interstitial": "admob",
       "Ad__4__Interstitial": "appodeal",
 
       "Ad__X__Banner": "admob",
-      "Ad__X__Native": "admob",
+      "Ad__X__Native": "appodeal",
       "Ad__X__Rectangle": "admob",
 
       "Test_mode_unity"     : "yes",
@@ -41,9 +41,9 @@
       "OnBack_ClicksTo_showAd": "15",
 
 
-      "Ad_format_fi_activity_1" : "native",
+      "Ad_format_fi_activity_1" : "rectangle",
       "Ad_format_fi_detail_1"   : "rectangle",
-      "Ad_format_fi_detail_2"   : "native",
+      "Ad_format_fi_detail_2"   : "rectangle",
       "Ad_format_fi_detail_3"   : "rectangle",
 
 
