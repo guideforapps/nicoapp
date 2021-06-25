@@ -33,7 +33,7 @@
 
       "Test_mode_unity"     : "no",
       "Test_mode_appodeal"  : "no",
-      "Debug_mode_facebook" : "no,
+      "Debug_mode_facebook" : "no",
       "Show_help_toast"     : "no",
 
       "ClicksTo_showAd": "2",
