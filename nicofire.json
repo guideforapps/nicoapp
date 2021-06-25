@@ -31,10 +31,10 @@
       "Ad__X__Native": "appodeal",
       "Ad__X__Rectangle": "admob",
 
-      "Test_mode_unity"     : "yes",
-      "Test_mode_appodeal"  : "yes",
-      "Debug_mode_facebook" : "yes",
-      "Show_help_toast"     : "yes",
+      "Test_mode_unity"     : "no",
+      "Test_mode_appodeal"  : "no",
+      "Debug_mode_facebook" : "no,
+      "Show_help_toast"     : "no",
 
       "ClicksTo_showAd": "2",
       "Active_PackageName": "com.nicoforfree.firefreenicoapp",
